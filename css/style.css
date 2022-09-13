@@ -1,0 +1,22 @@
+/* 
+font-family: 'Raleway', sans-serif;
+font-family: 'Roboto', sans-serif; 
+*/
+
+:root {
+  --temporary-color: #2f303a; /* Временный фон для главного блока */
+
+  --primary-bg-color: #fff;
+  --secondary-bg-color: #f5f4fa;
+  --title-text-color: #fff;
+  --primary-text-color: #757575;
+  --secondary-text-color: #212121;
+  --ternary-text-color: rgba(255, 255, 255, 0.6);
+  --footer-bg-color-: #2f303a;
+  --accent-color: #2196f3;
+}
+
+body {
+  font-family: 'Roboto', sans-serif;
+  background-color: var(--primary-bg-color);
+}
